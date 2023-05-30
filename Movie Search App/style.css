@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #da627d;
+}
+#container{
+    width: 60vw;
+    border: 3px solid #450920;
+    margin: 20px auto;
+    padding: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    color: #355070;
+    text-shadow: #6d597a 1px 0 10px;
+}
+
+input,button{
+    font-size: 1.4rem;
+    text-align: center;
+    background-color: #ffd8be;
+    border: 2px solid #450920;
+    text-shadow: #da627d;
+
+}
